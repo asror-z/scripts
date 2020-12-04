@@ -1,0 +1,1 @@
+exec.exe @php t:\PHP\Projects\zetsoft\excmd\asrorz.php tester/test2/run

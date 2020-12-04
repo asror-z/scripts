@@ -1,0 +1,3 @@
+cd ../../
+
+bower install
